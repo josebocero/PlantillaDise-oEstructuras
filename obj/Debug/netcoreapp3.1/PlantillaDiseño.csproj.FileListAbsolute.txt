@@ -20,3 +20,14 @@ C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\Pl
 C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfo.cs
 C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.dll
 C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.pdb
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.exe
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.deps.json
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.runtimeconfig.json
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.runtimeconfig.dev.json
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.dll
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.pdb
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.csprojAssemblyReference.cache
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfoInputs.cache
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfo.cs
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.dll
+C:\ProyectosNetCore\PlantillaConsolaEstructuras\PlantillaDise-oEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.pdb

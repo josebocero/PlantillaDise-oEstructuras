@@ -364,6 +364,7 @@ namespace PlantillaDiseño
                     Write(" ");
                 }
             }
+            SetCursorPosition(3,9);
         }
         static void CrearFichero()
         {
@@ -525,7 +526,7 @@ namespace PlantillaDiseño
             char caracter;
             char caracter2='@';
             //int i=0;
-            while(ficheroDisney!=null)
+            do
             {
                linea = ficheroDisney.ReadLine();
                try
@@ -555,9 +556,95 @@ namespace PlantillaDiseño
 
                    //i++;
                }
-            }
+            }while(linea!=null);
             ficheroDisney.Close();
             
+        }
+        static void MostrarPeliculasInicial(){
+            char c='0';
+            string nombreArchivo;
+            string linea;
+            StreamReader fichero;
+        
+            for(int i=0;i<43;i++){
+                
+                nombreArchivo = "Empiezan por ";
+                nombreArchivo += $"{c}";
+                WriteLine($"Películas del archivo: {nombreArchivo}");
+                WriteLine("\n");
+                try
+                {
+                    fichero = File.OpenText(nombreArchivo);
+
+                    do
+                    {
+                        linea = fichero.ReadLine();
+                        if(linea!= null)
+                        {
+                            WriteLine(linea);
+                        }
+                    }while(linea!=null);
+
+                }catch(Exception)
+                {
+                    WriteLine("No existe el archivo{0}.",nombreArchivo);
+                                                     
+                }
+
+                c++;
+                
+                System.Threading.Thread.Sleep(1000);
+                Clear();
+            }
+            
+            ReadKey();
+        }
+        public struct Pelicula
+        {
+            public string Nombre;
+            public string tamaño;
+            public DateTime Fecha;
+            
+        }
+        static void PeliculasDisneyDos()
+        {
+            string linea;
+            string nombre;
+            string tamaño;
+            string SFecha;
+            DateTime Fecha;
+            StreamReader archivo;
+            char [] caracteres;
+            Pelicula[] peliDisney = new Pelicula[178];
+            int i=0;
+            
+            try
+            {
+                archivo = File.OpenText("disney2.txt");
+            }catch(Exception)
+            {
+                WriteLine("Error.");
+                return;
+            }
+
+            linea = archivo.ReadLine();
+            
+            do
+            { 
+                SFecha = linea.Substring(0,10);
+                WriteLine(SFecha);
+                tamaño = linea.Substring(12,5);
+                WriteLine(tamaño);
+                if(linea[22].ToString()!="")
+                {
+                    nombre = linea.Substring(22);
+                }else
+                {
+                    nombre = linea.Substring(23);
+                }
+                WriteLine(nombre);
+            }while(linea!=null);
+
         }
         static void Main(string[] args)
         {
@@ -579,7 +666,9 @@ namespace PlantillaDiseño
             //ContarPeliculas();
             //NombrarPeliculas();
             //NombrarPeliculasSinPuntos();
-            DividirPeliculasInicial();
+            //DividirPeliculasInicial();
+            //MostrarPeliculasInicial();
+            PeliculasDisneyDos();
             DateTime HoraFinal = DateTime.Now;
             TiempoEmpleado(HoraInicial,HoraFinal);
             SetCursorPosition(0,28);
