@@ -1,0 +1,22 @@
+C:\Proyectos_core\PlantillaDiseño\bin\Debug\netcoreapp3.1\PlantillaDiseño.exe
+C:\Proyectos_core\PlantillaDiseño\bin\Debug\netcoreapp3.1\PlantillaDiseño.deps.json
+C:\Proyectos_core\PlantillaDiseño\bin\Debug\netcoreapp3.1\PlantillaDiseño.runtimeconfig.json
+C:\Proyectos_core\PlantillaDiseño\bin\Debug\netcoreapp3.1\PlantillaDiseño.runtimeconfig.dev.json
+C:\Proyectos_core\PlantillaDiseño\bin\Debug\netcoreapp3.1\PlantillaDiseño.dll
+C:\Proyectos_core\PlantillaDiseño\bin\Debug\netcoreapp3.1\PlantillaDiseño.pdb
+C:\Proyectos_core\PlantillaDiseño\obj\Debug\netcoreapp3.1\PlantillaDiseño.csprojAssemblyReference.cache
+C:\Proyectos_core\PlantillaDiseño\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfoInputs.cache
+C:\Proyectos_core\PlantillaDiseño\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfo.cs
+C:\Proyectos_core\PlantillaDiseño\obj\Debug\netcoreapp3.1\PlantillaDiseño.dll
+C:\Proyectos_core\PlantillaDiseño\obj\Debug\netcoreapp3.1\PlantillaDiseño.pdb
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.exe
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.deps.json
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.runtimeconfig.json
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.runtimeconfig.dev.json
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.dll
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\bin\Debug\netcoreapp3.1\PlantillaDiseño.pdb
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.csprojAssemblyReference.cache
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfoInputs.cache
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.AssemblyInfo.cs
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.dll
+C:\Proyectos_core\TEMA 4B\PlantillaDiseñoEstructuras\obj\Debug\netcoreapp3.1\PlantillaDiseño.pdb
